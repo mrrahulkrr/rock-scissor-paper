@@ -32,10 +32,10 @@ In this project, let's build a **Rock Paper Scissors** by applying the concepts 
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionality added</summary>
 <br/>
 
-The app must have the following functionalities
+The app have the following functionalities
 
 - When you click on the **Rules** button, it should trigger a popup, and rules image should be displayed
 - Initially, the score displayed should be `0`
@@ -109,13 +109,13 @@ The app must have the following functionalities
 - You can use **reactjs-popup** for displaying the modal
 - `RiCloseLine` icon from `react icons` can be used for the **close** button at `React Popup`
 
-**The following instructions are required for the tests to pass**
+**The following key features are taken care of -**
 
-- **Styled Components** should be used for styling purposes
-- The Page should consist of three HTML button elements with `data-testid` attribute values as **rockButton**, **scissorsButton** and **paperButton** respectively
-- In Game Results View, the page should consist of an HTML image element with alt as **your choice** and src as URL for your choice image
-- In Game Results View, the page should consist of an HTML image element with alt as **opponent choice** and src as URL for opponent choice image
-- **Roboto** should be applied as `font-family` for **Score** value
+- **Styled Components** is used for styling purposes
+- The Page consist of three HTML button elements with `data-testid` attribute values as **rockButton**, **scissorsButton** and **paperButton** respectively
+- In Game Results View, the page consist of an HTML image element with alt as **your choice** and src as URL for your choice image
+- In Game Results View, the page consist of an HTML image element with alt as **opponent choice** and src as URL for opponent choice image
+- **Roboto** is applied as `font-family` for **Score** value
 
 </details>
 
@@ -146,9 +146,3 @@ The app must have the following functionalities
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.

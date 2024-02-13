@@ -8,7 +8,7 @@ In this project, let's build a **Rock Paper Scissors** by applying the concepts 
 </div>
 <br/>
 
-### Design Files
+### Designed Files
 
 <details>
 <summary>Click to view</summary>
